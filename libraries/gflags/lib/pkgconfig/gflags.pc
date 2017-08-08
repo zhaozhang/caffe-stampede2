@@ -1,4 +1,4 @@
-prefix=/work/00946/zzhang/knl/caffe-knl/gflags
+prefix=/work/00946/zzhang/maverick/caffe/gflags
 exec_prefix=${prefix}
 bindir=${prefix}/bin
 libdir=${prefix}/lib
