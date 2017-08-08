@@ -1,2 +1,2 @@
-# caffe-stampede2
-libraries and makefiles for caffe deployment on Stampede2
+# caffe-maverick
+libraries and makefiles for caffe deployment on Maverick
