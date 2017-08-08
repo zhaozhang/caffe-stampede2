@@ -1,4 +1,4 @@
-prefix=/work/00946/zzhang/knl/caffe-knl/glog
+prefix=/work/00946/zzhang/maverick/caffe/glog
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include
