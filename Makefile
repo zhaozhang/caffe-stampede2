@@ -447,7 +447,7 @@ ifeq ($(DEBUG), 1)
 	COMMON_FLAGS += -DDEBUG -g -O0
 	NVCCFLAGS += -G
 else ifneq (,$(findstring icpc,$(CXX)))
-	COMMON_FLAGS += -DNDEBUG -O3 -xCORE-AVX512 -no-prec-div -fp-model fast=2
+	COMMON_FLAGS += -DNDEBUG -O3 -xCOMMON-AVX512 -no-prec-div -fp-model fast=2
 else
 	COMMON_FLAGS += -DNDEBUG -O3
 endif
