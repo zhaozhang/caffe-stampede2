@@ -1,6 +1,6 @@
 # Package Information for pkg-config
 
-prefix=/work/00946/zzhang/knl/caffe-knl/opencv
+prefix=/scratch/00946/zzhang/stampede2/caffe-knl/opencv
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir_old=${prefix}/include/opencv
